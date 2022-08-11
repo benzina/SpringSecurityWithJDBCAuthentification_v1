@@ -6,4 +6,4 @@ On the one hand, some pages will be accessible to multiple roles and on the othe
 Moreover, we will use thymeleaf to create pages. 
 Additionally, we will have a controller class to serve the user’s request. this application is developped by a code Before Spring Security 5.7.0.
 we validate credentials and roles from existing values in database.
-Also, we will work on password encryption logic as well.
+Also, we will work on password encryption logic.
